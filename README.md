@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hala asiri
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning applicationsdevelopment
-- 💞️ I’m looking to collaborate on ios
+- 💞️ I’m looking to collaborate on Android 
 - 📫 How to reach me / my email cvxtia@gmail.com
