@@ -2,4 +2,4 @@
 - I’m interested in programming
 - l’m currently learning applications development
 - I’m looking to collaborate on Android 
-- 📫 How to reach me / my email cvxtia@gmail.com
+- 📫 my email cvxtia@gmail.com
